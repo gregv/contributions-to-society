@@ -21,6 +21,10 @@ ASU Tempe [Listen to Data](https://docs.google.com/document/d/1YUczn0g9Q_HuyG4j-
 - [ohack History](https://www.ohack.org/history#h.o7mvw0cywohn) - I wasn't involved in 2016
 - Built [ohack.org](https://ohack.org)
 
+# Small Business
+## 2014
+As part of our Small Business Challenge, we redesigned [Scooptacular.net](https://www.linkedin.com/pulse/donate-10-your-work-community-greg-vannoni/) to support a local ice cream store.
+
 # Conferences
 ## Prepare.ai 2020
 [Prepare.ai 2020 - It's a Bug, No It's a Feature, No It's a Bug
